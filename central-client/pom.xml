@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>gay.monke</groupId>
+	<artifactId>spotlight</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>SecuritySpotlight</name>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<compiler.plugin.version>3.1</compiler.plugin.version>
+		<eclipse.plugin.version>2.9</eclipse.plugin.version>
+		<junit.version>4.13.1</junit.version>
+		<java.version>1.8</java.version>
+		<jdk.path>c:/java-tools/jdk1.8.0_05</jdk.path>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>${junit.version}</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+</project>

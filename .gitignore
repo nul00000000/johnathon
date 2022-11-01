@@ -1,0 +1,7 @@
+central-client/.settings/org.eclipse.jdt.core.prefs
+central-client/.settings/org.eclipse.m2e.core.prefs
+central-client/.project
+camera/.vscode/settings.json
+camera/.vscode/extensions.json
+camera/ESP32CAM.code-workspace
+spotlight/.vscode/extensions.json
