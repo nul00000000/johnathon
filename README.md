@@ -1,8 +1,10 @@
 # johnathon
-It is named Johnathon because I needed a name and that's what my girlfriend said ¯\_(ツ)_/¯
+It is named Johnathon because I needed a name and that's what my girlfriend said ¯\\_(ツ)_/¯
 
 Anyway this is a project I decided to make because I felt that modern security systems were lacking in general
+<br>
 Flood lights? Lame
+<br>
 Spotlight that follows you across the lawn as you put out the trash? Yes please
 
 The code is designed in a way that leaves everything extremely open to development, for example mounting the camera or light on a moving rail system (hint hint I want to do this)
